@@ -23,3 +23,7 @@ AS4242423955 is an autonomous system originating prefixes within the Decentraliz
 | 64666:6002    | Do not announce to peers  |
 | 64666:6003    | Do not announce to IX  |
 
+## Note
+
+Own prefixes from AS4242423955 are not being tagged with communities as to avoid any issues. Additionally, there's no reason for communities to prefixes from this AS.
+

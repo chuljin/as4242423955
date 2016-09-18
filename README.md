@@ -21,4 +21,5 @@ AS4242423955 is an autonomous system originating prefixes within the Decentraliz
 | 64666:6000    | Do not announce to any |
 | 64666:6001    | Do not announce to another PoP |
 | 64666:6002    | Do not announce to peers  |
+| 64666:6003    | Do not announce to IX  |
 
